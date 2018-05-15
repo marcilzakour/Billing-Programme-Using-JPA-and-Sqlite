@@ -7,6 +7,8 @@ This programme provides products management functionalities like daily payments 
 * EclipseLink (JPA 2.1) library
 * junit-4.10 library
 ## Project Structure
+* dist folder contains external libraries and jar file of the programme
+* src folder contains source code
 entities package contain the entity classes (Bill,Customer, Product, .. )
 gui package contain the JFrames, JDialongs and Custom JComponents.
 ## Running the Programme
